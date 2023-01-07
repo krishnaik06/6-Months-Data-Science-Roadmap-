@@ -60,7 +60,7 @@ English: Live NLP Playlist: https://www.youtube.com/watch?v=w3coRFpyddQ&list=PLZ
 
 Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm
 
-## AIOPS: 
+## AIOPS: End To End ML Projects
 1. Github Action CI/CD pipelines
 2. Circle CI
 3. Kubeflow

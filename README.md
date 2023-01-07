@@ -65,8 +65,9 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 2. Circle CI
 3. Kubeflow
 4. MLflow
-5. Deployment Technqiues In AWS,AZURE, GCP
-6. Grafana(Monitoring)
+5. Deployment Technqiues In AWS,AZURE, GCP,Dockers And Kubernetes
+6. Evidently AI
+7. Grafana(Monitoring)
 
 ## Best Affordable Data Science Course From Pwskills(6-7 Months)
 

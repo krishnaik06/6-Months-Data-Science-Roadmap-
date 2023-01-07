@@ -70,7 +70,7 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 
 ## Best Affordable Data Science Course From Pwskills(6-7 Months)
 
-1. Impact Batch:- Data-Science-Masters (Full Stack Data Science)
-** https://pwskills.com/course/Data-Science-masters (Hindi)
-** https://pwskills.com/course/Data-Science-Masters (English)
+Impact Batch:- Data-Science-Masters (Full Stack Data Science)
+1. Data Science Masters Hindi: https://pwskills.com/course/Data-Science-masters (Hindi)
+2. Data Science Masters English: https://pwskills.com/course/Data-Science-Masters (English)
 Visit : https://pwskills.com

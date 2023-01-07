@@ -69,7 +69,8 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 6. Grafana(Monitoring)
 
 ## Best Affordable Data Science Course From Pwskills(6-7 Months)
-Impact Batch:- Data-Science-Masters (Full Stack Data Science)
-https://pwskills.com/course/Data-Science-masters (Hindi)
-https://pwskills.com/course/Data-Science-Masters (English)
+
+1. Impact Batch:- Data-Science-Masters (Full Stack Data Science)
+**https://pwskills.com/course/Data-Science-masters (Hindi)
+**https://pwskills.com/course/Data-Science-Masters (English)
 Visit : https://pwskills.com

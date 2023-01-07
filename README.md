@@ -66,3 +66,10 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 3. Kubeflow
 4. MLflow
 5. Deployment Technqiues In AWS,AZURE, GCP
+6. Grafana(Monitoring)
+
+## Best Affordable Data Science Course From Pwskills(6-7 Months)
+Impact Batch:- Data-Science-Masters (Full Stack Data Science)
+https://pwskills.com/course/Data-Science-masters (Hindi)
+https://pwskills.com/course/Data-Science-Masters (English)
+Visit : https://pwskills.com

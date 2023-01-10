@@ -70,6 +70,9 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 7. Grafana(Monitoring)
 8. AirFlow
 
+## Data Science Tracker Sheet For Learning
+https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view
+
 ## Best Affordable Data Science Course From Pwskills(6-7 Months)
 
 Impact Batch:- Data-Science-Masters (Full Stack Data Science)

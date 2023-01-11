@@ -2,6 +2,8 @@
 
 ## 1. Python Programming Language -1 Month
 Python:
+![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/20041231/211717885-0b1e049b-f5b3-457d-ba7a-9345ec3aa39c.png)
+
 Python In English:https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB
 
 Python In Hindi: https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v
@@ -17,6 +19,8 @@ Flask Playlist: https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBa
 https://docs.python.org/3/whatsnew/3.10.html
 
 ## 2. Statistics
+![1_jidbi1--elimaTb3B2HT5w](https://user-images.githubusercontent.com/20041231/211717931-134aaac2-a8fc-445b-93a6-ae241c66ba5b.png)
+
 English: 7 Days Statistics Live Session :https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay
 
 Statistics in ML(43 videos): https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO
@@ -40,7 +44,11 @@ Live EDA Feature Engineering Playlist: https://www.youtube.com/watch?v=bTN-6VPe8
 
 ## 3. Databases
 1. Mongodb: https://www.youtube.com/watch?v=magzEfYqIos&list=PLZoTAELRMXVN_8zzsevm1bm6G-plsiO1I
+![download (3)](https://user-images.githubusercontent.com/20041231/211718010-30412d4c-9cea-4ae7-858e-a761d0240812.png)
+
 2. Mysql:https://www.youtube.com/watch?v=us1XyayQ6fU&list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl
+
+![download (4)](https://user-images.githubusercontent.com/20041231/211718051-2af3c5ba-cb6d-451b-85ea-5bb01abd9869.png)
 
 ## 4. Machine Learning
 Complete Around 20-25 Algorithms Both ssupervised And Unsupervised ML
@@ -69,6 +77,11 @@ Complete NLP Playlist:https://www.youtube.com/watch?v=fM4qTMfCoak&list=PLZoTAELR
 6. Evidently AI
 7. Grafana(Monitoring)
 8. AirFlow
+
+## Internships:
+![Red White Modern Youtube Thumbnail (2)](https://user-images.githubusercontent.com/20041231/211718275-abc43b47-b53d-40d7-a93c-24aceaa6bec8.jpg)
+
+iNeuron Internships: https://internship.ineuron.ai/
 
 ## Data Science Tracker Sheet For Learning
 https://drive.google.com/file/d/18doA_wMja2nAawcE6imIcfnEMf-Pir2n/view

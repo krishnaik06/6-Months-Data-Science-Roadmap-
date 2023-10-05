@@ -55,7 +55,7 @@ Live EDA Feature Engineering Playlist: https://www.youtube.com/watch?v=bTN-6VPe8
 ![download (4)](https://user-images.githubusercontent.com/20041231/211718051-2af3c5ba-cb6d-451b-85ea-5bb01abd9869.png)
 
 ## 4. Machine Learning
-Complete Around 20-25 Algorithms Both ssupervised And Unsupervised ML
+Complete Around 20-25 Algorithms Both supervised And Unsupervised ML
 Live ML Playlist: https://www.youtube.com/watch?v=z8sxaUw_f-M&list=PLZoTAELRMXVPjaAzURB77Kz0YXxj65tYz
 
 Complete ML Playlist: https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe
